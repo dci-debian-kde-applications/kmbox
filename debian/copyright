@@ -3,10 +3,10 @@ Upstream-Name: kmbox
 Source: http://download.kde.org/pub/kde/unstable/applications/
 
 Files: *
-Copyright: 2009 Bertjan Broeksema <broeksema@kde.org>
-           2010 Tobias Koenig <tokoe@kde.org>
-           1996-1998 Stefan Taferner <taferner@kde.org>
-           2014 Laurent Montel <montel@kde.org>
+Copyright: 2009, Bertjan Broeksema <broeksema@kde.org>
+           2014, Laurent Montel <montel@kde.org>
+           1996-1998, Stefan Taferner <taferner@kde.org>
+           2010, Tobias Koenig <tokoe@kde.org>
 License: LGPL-2+
 
 Files: autotests/mboxtest.cpp
