@@ -1,0 +1,50 @@
+Source: kmbox
+Section: libs
+Priority: optional
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cmake (>= 2.8.12~),
+               debhelper (>= 9),
+               extra-cmake-modules (>= 5.12.0~),
+               libboost-dev,
+               libkf5kdelibs4support-dev (>= 5.12.0~),
+               libkf5mime-dev,
+               pkg-kde-tools (>> 0.15.15),
+               qtbase5-dev
+Standards-Version: 3.9.6
+XS-Testsuite: autopkgtest
+Homepage: https://projects.kde.org/projects/kde/pim/kmbox
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/kmbox.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/kmbox.git
+
+Package: libkf5mbox-dev
+Section: libdevel
+Architecture: any
+Multi-Arch: foreign
+Depends: libkf5mbox5 (= ${binary:Version}), ${misc:Depends}
+Description: library for handling mbox mailboxes - development files
+ This is a library for handling mailboxes in mbox format, using a Qt/KMime C++
+ API.
+ .
+ This package contains the development files.
+
+Package: libkf5mbox5
+Architecture: any
+Multi-Arch: same
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: library for handling mbox mailboxes
+ This is a library for handling mailboxes in mbox format, using a Qt/KMime C++
+ API.
+ .
+ This package is part of the KDE Development Platform PIM libraries module.
+
+Package: libkf5mbox-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Multi-Arch: same
+Depends: libkf5mbox5 (= ${binary:Version}), ${misc:Depends}
+Description: library for handling mbox mailboxes - debug symbols
+ This is a library for handling mailboxes in mbox format, using a Qt/KMime C++
+ API.
+ .
+ This package contains the debug symbols.
