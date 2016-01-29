@@ -1,8 +1,12 @@
 kmbox (15.12.1-0) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:03:12 +0000
+  [ Sandro Knauß ]
+  * Update symbolfile.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 29 Jan 2016 20:45:34 +0100
 
 kmbox (15.08.1-1) experimental; urgency=medium
 
