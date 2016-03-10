@@ -1,4 +1,4 @@
-kmbox (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kmbox (15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
   * New upstream release.
@@ -11,7 +11,7 @@ kmbox (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Fix merger. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 02 Feb 2016 10:12:55 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:51:58 +0100
 
 kmbox (15.12.0-1) experimental; urgency=medium
 
