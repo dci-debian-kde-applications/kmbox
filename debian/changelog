@@ -1,3 +1,14 @@
+kmbox (16.04.0-1~1.gbpe2a5c0) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @e2a5c04d7fa5ae42112457cc72e8b08e490b7a2e **
+
+  * Bump Standards-Version to 3.9.8
+  * Update symbols files with the logs from the buildds
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 06:45:17 +0200
+
 kmbox (15.12.0-2) experimental; urgency=medium
 
   * Update symbols files from buildds logs (15.12.0-1).
