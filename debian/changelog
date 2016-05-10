@@ -1,6 +1,6 @@
-kmbox (16.04.0-1~2.gbp27dbc5) UNRELEASED; urgency=medium
+kmbox (16.04.1-1~1.gbpdbdc71) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @27dbc56a3d577930bd839d91c8a69ccb967ecdb5 **
+  ** SNAPSHOT build @dbdc71b1ff0c428f86eda60c40bf02efccb75484 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @e2a5c04d7fa5ae42112457cc72e8b08e490b7a2e **
@@ -15,8 +15,9 @@ kmbox (16.04.0-1~2.gbp27dbc5) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 26 Apr 2016 13:55:29 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:45:18 +0200
 
 kmbox (15.12.0-2) experimental; urgency=medium
 
