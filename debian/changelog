@@ -1,10 +1,6 @@
-kmbox (16.04.1-1~1.gbpdbdc71) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @dbdc71b1ff0c428f86eda60c40bf02efccb75484 **
+kmbox (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @e2a5c04d7fa5ae42112457cc72e8b08e490b7a2e **
-
   * Bump Standards-Version to 3.9.8
   * Update symbols files with the logs from the buildds
   * Add a .gitattributes file to use dpkg-mergechangelogs
@@ -15,9 +11,8 @@ kmbox (16.04.1-1~1.gbpdbdc71) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:45:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 01:48:28 +0200
 
 kmbox (15.12.0-2) experimental; urgency=medium
 
