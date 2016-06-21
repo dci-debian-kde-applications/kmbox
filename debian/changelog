@@ -1,10 +1,8 @@
-kmbox (16.04.2-1~1.gbpdf8a85) UNRELEASED; urgency=medium
+kmbox (16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @df8a8500cbc90f0c224af740bd437ae16cbbfc98 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:45:32 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 21 Jun 2016 11:11:39 +0200
 
 kmbox (16.04.1-1) unstable; urgency=medium
 
