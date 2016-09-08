@@ -1,6 +1,6 @@
-kmbox (16.08.0-1~1.gbp318882) UNRELEASED; urgency=medium
+kmbox (16.08.1-1~1.gbp8ff99a) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @3188820f361e145aea4bad4afcdf8214cc36de6b **
+  ** SNAPSHOT build @8ff99a8823c3a527af272041fad922b15f423273 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @91d899f3fd751864c94ce005a9f2015a67dd5e1f **
@@ -9,8 +9,9 @@ kmbox (16.08.0-1~1.gbp318882) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:45:15 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 00:45:36 +0200
 
 kmbox (16.04.2-1) unstable; urgency=medium
 
