@@ -1,3 +1,9 @@
+kmbox (17.08.0-1~) UNRELEASED; urgency=medium
+
+  * New revision
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 21 Aug 2017 12:09:54 +0200
+
 kmbox (17.08.0-0neon) xenial; urgency=medium
 
   * New release
