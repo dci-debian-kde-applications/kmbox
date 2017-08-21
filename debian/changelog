@@ -1,3 +1,69 @@
+kmbox (17.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 17 Aug 2017 09:37:10 +0000
+
+kmbox (17.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 12 Jul 2017 10:22:40 +0000
+
+kmbox (17.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 07 Jun 2017 12:22:35 +0000
+
+kmbox (17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:20:58 +0000
+
+kmbox (17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 13:04:43 +0000
+
+kmbox (16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:49:23 +0000
+
+kmbox (16.12.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Feb 2017 17:00:25 +0000
+
+kmbox (16.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Jan 2017 13:20:19 +0000
+
+kmbox (16.12.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 14 Dec 2016 16:28:55 +0000
+
+kmbox (16.08.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 21 Nov 2016 13:53:31 +0000
+
+kmbox (16.08.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 14 Oct 2016 13:40:27 +0000
+
 kmbox (16.08.1-1~1.gbp8ff99a) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @8ff99a8823c3a527af272041fad922b15f423273 **
@@ -12,6 +78,24 @@ kmbox (16.08.1-1~1.gbp8ff99a) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
 
  -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 00:45:36 +0200
+
+kmbox (16.08.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 16 Sep 2016 13:07:10 +0000
+
+kmbox (16.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 17 Aug 2016 11:49:01 +0000
+
+kmbox (16.07.80-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 27 Jul 2016 16:44:13 +0000
 
 kmbox (16.04.2-1) unstable; urgency=medium
 
