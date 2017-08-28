@@ -39,3 +39,4 @@ Description: library for handling mbox mailboxes
  API.
  .
  This package is part of the KDE Development Platform PIM libraries module.
+Breaks: kdepim-runtime (<< 4:17.08), libkf5messageviewer5 (<< 4:17.08)
