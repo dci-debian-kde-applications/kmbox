@@ -4,6 +4,7 @@ kmbox (4:17.08.3-1) UNRELEASED; urgency=medium
   * New upstream release (17.08.3).
   * Mark libkf5mbox-dev corretly as Multi-Arch: all
   * Bump Standards-Version to 4.1.2 (No changes needed).
+  * Remove not needed Build-Deps.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 Dec 2017 17:11:19 +0100
 
