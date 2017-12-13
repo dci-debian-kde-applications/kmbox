@@ -19,7 +19,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kmbox.git
 Package: libkf5mbox-dev
 Section: libdevel
 Architecture: any
-Multi-Arch: foreign
+Multi-Arch: same
 Depends: libkf5mbox5 (= ${binary:Version}),
          libkf5mime-dev (>= 5.6.0~),
          qtbase5-dev,
