@@ -1,3 +1,10 @@
+kmbox (4:17.08.3-1) UNRELEASED; urgency=medium
+
+  [ Sandro Knauß ]
+  * New upstream release (17.08.3).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 Dec 2017 17:11:19 +0100
+
 kmbox (17.08.0-1) experimental; urgency=medium
 
   * New revision
