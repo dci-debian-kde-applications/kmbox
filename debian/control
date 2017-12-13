@@ -8,7 +8,7 @@ Build-Depends: cmake (>= 3.0~),
                extra-cmake-modules (>= 5.35.0~),
                libboost-dev,
                libkf5kdelibs4support-dev (>= 5.12.0~),
-               libkf5mime-dev (>= 17.08.0~),
+               libkf5mime-dev (>= 17.08.3~),
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev,
 Standards-Version: 4.1.2
@@ -21,7 +21,7 @@ Section: libdevel
 Architecture: any
 Multi-Arch: same
 Depends: libkf5mbox5 (= ${binary:Version}),
-         libkf5mime-dev (>= 5.6.0~),
+         libkf5mime-dev (>= 17.08.3~),
          qtbase5-dev,
          ${misc:Depends},
 Description: library for handling mbox mailboxes - development files
