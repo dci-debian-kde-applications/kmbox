@@ -5,6 +5,7 @@ kmbox (17.08.3-1) UNRELEASED; urgency=medium
   * Mark libkf5mbox-dev corretly as Multi-Arch: all
   * Bump Standards-Version to 4.1.2 (No changes needed).
   * Remove not needed Build-Deps.
+  * Bump debhelper build-dep and compat to 10.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 Dec 2017 17:11:19 +0100
 
