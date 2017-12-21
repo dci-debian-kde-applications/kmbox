@@ -1,13 +1,15 @@
-kmbox (17.08.3-1) UNRELEASED; urgency=medium
+kmbox (17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Sandro Knauß ]
   * New upstream release (17.08.3).
-  * Mark libkf5mbox-dev corretly as Multi-Arch: all
+  * Mark libkf5mbox-dev corretly as Multi-Arch: same.
   * Bump Standards-Version to 4.1.2 (No changes needed).
   * Remove not needed Build-Deps.
   * Bump debhelper build-dep and compat to 10.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 13 Dec 2017 17:11:19 +0100
+ -- Sandro Knauß <hefee@debian.org>  Thu, 21 Dec 2017 17:56:29 +0100
 
 kmbox (17.08.0-1) experimental; urgency=medium
 
